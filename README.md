@@ -16,9 +16,9 @@
 
 Fullstack Web Engineer specializing in Laravel, Vue.js, and MySQL. BNSP-certified Junior Web Programmer with a Computer Science degree from Universitas Lambung Mangkurat. Passionate about building clean, structured, and reliable web applications.
 
--🔭 Currently building scalable web applications
--🌱 Learning cloud infrastructure & DevOps
--💡 Passionate about clean architecture and great user experience
+- 🔭 Currently building scalable web applications
+- 🌱 Learning cloud infrastructure & DevOps
+- 💡 Passionate about clean architecture and great user experience
 ---
 
 ## 🛠️ Tech Stack
