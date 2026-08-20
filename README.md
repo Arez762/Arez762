@@ -4,9 +4,9 @@
 
 ### Fullstack Engineer
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@email.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/abdillah_rzkii)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdillah-rezeki-907a66223/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](abdillahrzkii@gmail.com)
 
 </div>
 
@@ -14,11 +14,11 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 Currently building **scalable web applications**
-- 🌱 Learning **cloud infrastructure & DevOps**
-- 💡 Passionate about clean architecture and great user experience
-- 📫 Reach me at **youremail@email.com**
+Fullstack Web Engineer specializing in Laravel, Vue.js, and MySQL. BNSP-certified Junior Web Programmer with a Computer Science degree from Universitas Lambung Mangkurat. Passionate about building clean, structured, and reliable web applications.
 
+🔭 Currently building scalable web applications
+🌱 Learning cloud infrastructure & DevOps
+💡 Passionate about clean architecture and great user experience
 ---
 
 ## 🛠️ Tech Stack
